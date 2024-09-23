@@ -1,0 +1,85 @@
+C:\Users\LeoMa\OneDrive\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\obj\Debug\MwA NEA.csproj.AssemblyReference.cache
+C:\Users\LeoMa\OneDrive\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\obj\Debug\MwA NEA.csproj.SuggestedBindingRedirects.cache
+C:\Users\LeoMa\OneDrive\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\obj\Debug\MwA NEA.csproj.CoreCompileInputs.cache
+C:\Users\LeoMa\OneDrive\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\MwA NEA.exe.config
+C:\Users\LeoMa\OneDrive\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\MwA NEA.exe
+C:\Users\LeoMa\OneDrive\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\MwA NEA.pdb
+C:\Users\LeoMa\OneDrive\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\ScottPlot.dll
+C:\Users\LeoMa\OneDrive\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\LeoMa\OneDrive\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\System.Drawing.Common.dll
+C:\Users\LeoMa\OneDrive\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LeoMa\OneDrive\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\System.ValueTuple.dll
+C:\Users\LeoMa\OneDrive\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\ScottPlot.xml
+C:\Users\LeoMa\OneDrive\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LeoMa\OneDrive\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\System.ValueTuple.xml
+C:\Users\LeoMa\OneDrive\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\obj\Debug\MwA NEA.csproj.CopyComplete
+C:\Users\LeoMa\OneDrive\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\obj\Debug\MwA NEA.exe
+C:\Users\LeoMa\OneDrive\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\obj\Debug\MwA NEA.pdb
+C:\Users\LeoMa\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\MwA NEA.exe.config
+C:\Users\LeoMa\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\MwA NEA.exe
+C:\Users\LeoMa\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\MwA NEA.pdb
+C:\Users\LeoMa\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\ScottPlot.dll
+C:\Users\LeoMa\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\LeoMa\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\System.Drawing.Common.dll
+C:\Users\LeoMa\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LeoMa\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\System.ValueTuple.dll
+C:\Users\LeoMa\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\ScottPlot.xml
+C:\Users\LeoMa\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LeoMa\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\System.ValueTuple.xml
+C:\Users\LeoMa\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\obj\Debug\MwA NEA.csproj.AssemblyReference.cache
+C:\Users\LeoMa\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\obj\Debug\MwA NEA.csproj.SuggestedBindingRedirects.cache
+C:\Users\LeoMa\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\obj\Debug\MwA NEA.csproj.CoreCompileInputs.cache
+C:\Users\LeoMa\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\obj\Debug\MwA NEA.csproj.CopyComplete
+C:\Users\LeoMa\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\obj\Debug\MwA NEA.exe
+C:\Users\LeoMa\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\obj\Debug\MwA NEA.pdb
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\MwA NEA.exe.config
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\MwA NEA.exe
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\MwA NEA.pdb
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\ScottPlot.dll
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\ScottPlot.WinForms.dll
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\System.Drawing.Common.dll
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\System.Numerics.Vectors.dll
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\System.ValueTuple.dll
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\ScottPlot.xml
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\System.Numerics.Vectors.xml
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\System.ValueTuple.xml
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\obj\Debug\MwA NEA.csproj.AssemblyReference.cache
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\obj\Debug\MwA NEA.csproj.SuggestedBindingRedirects.cache
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\obj\Debug\MwA NEA.csproj.CoreCompileInputs.cache
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\obj\Debug\MwA NEA.csproj.CopyComplete
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\obj\Debug\MwA NEA.exe
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA NEA\MwA NEA\obj\Debug\MwA NEA.pdb
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\MwA NEA.exe.config
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\MwA NEA.exe
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\MwA NEA.pdb
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\ScottPlot.dll
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\ScottPlot.WinForms.dll
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\System.Drawing.Common.dll
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\System.Numerics.Vectors.dll
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\System.ValueTuple.dll
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\ScottPlot.xml
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\System.Numerics.Vectors.xml
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA-NEA\MwA NEA\MwA NEA\bin\Debug\System.ValueTuple.xml
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA-NEA\MwA NEA\MwA NEA\obj\Debug\MwA NEA.csproj.AssemblyReference.cache
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA-NEA\MwA NEA\MwA NEA\obj\Debug\MwA NEA.csproj.SuggestedBindingRedirects.cache
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA-NEA\MwA NEA\MwA NEA\obj\Debug\MwA NEA.csproj.CoreCompileInputs.cache
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA-NEA\MwA NEA\MwA NEA\obj\Debug\MwA NEA.csproj.CopyComplete
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA-NEA\MwA NEA\MwA NEA\obj\Debug\MwA NEA.exe
+\\RHEA\HOME\2022\22LM1944\Documents\GitHub\MwA-NEA\MwA-NEA\MwA NEA\MwA NEA\obj\Debug\MwA NEA.pdb
+C:\Users\LeoMa\Downloads\MwA-NEA-Github\MwA NEA\bin\Debug\MwA NEA.exe.config
+C:\Users\LeoMa\Downloads\MwA-NEA-Github\MwA NEA\bin\Debug\MwA NEA.exe
+C:\Users\LeoMa\Downloads\MwA-NEA-Github\MwA NEA\bin\Debug\MwA NEA.pdb
+C:\Users\LeoMa\Downloads\MwA-NEA-Github\MwA NEA\bin\Debug\ScottPlot.dll
+C:\Users\LeoMa\Downloads\MwA-NEA-Github\MwA NEA\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\LeoMa\Downloads\MwA-NEA-Github\MwA NEA\bin\Debug\System.Drawing.Common.dll
+C:\Users\LeoMa\Downloads\MwA-NEA-Github\MwA NEA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LeoMa\Downloads\MwA-NEA-Github\MwA NEA\bin\Debug\System.ValueTuple.dll
+C:\Users\LeoMa\Downloads\MwA-NEA-Github\MwA NEA\bin\Debug\ScottPlot.xml
+C:\Users\LeoMa\Downloads\MwA-NEA-Github\MwA NEA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LeoMa\Downloads\MwA-NEA-Github\MwA NEA\bin\Debug\System.ValueTuple.xml
+C:\Users\LeoMa\Downloads\MwA-NEA-Github\MwA NEA\obj\Debug\MwA NEA.csproj.AssemblyReference.cache
+C:\Users\LeoMa\Downloads\MwA-NEA-Github\MwA NEA\obj\Debug\MwA NEA.csproj.SuggestedBindingRedirects.cache
+C:\Users\LeoMa\Downloads\MwA-NEA-Github\MwA NEA\obj\Debug\MwA NEA.csproj.CoreCompileInputs.cache
+C:\Users\LeoMa\Downloads\MwA-NEA-Github\MwA NEA\obj\Debug\MwA NEA.csproj.CopyComplete
+C:\Users\LeoMa\Downloads\MwA-NEA-Github\MwA NEA\obj\Debug\MwA NEA.exe
+C:\Users\LeoMa\Downloads\MwA-NEA-Github\MwA NEA\obj\Debug\MwA NEA.pdb
